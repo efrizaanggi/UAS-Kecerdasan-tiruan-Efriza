@@ -1,6 +1,0 @@
-print ('ini program saya')
-print('Nama saya efriza')
-print('Alamat jada bahrin')
-print('hobi saya mendengar musik')
-print('saya berasal dari sekolah MA SABIILUL MUHTADN')
-print('saya lahir pada tanggal 23')
